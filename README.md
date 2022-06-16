@@ -6,4 +6,4 @@ Analysis Work in Support of Kickstarter.
 * Bellet 1
 * Bullet 2
 * Bullet 3
-* 
+
